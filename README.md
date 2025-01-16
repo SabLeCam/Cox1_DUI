@@ -1,7 +1,7 @@
 # Cox1_DUI
 
 RCode and Data from the follwing article:
-Discordant population structure inferred from male- and female-type mtDNAs from Limecola balthica, a bivalve species characterized by doubly uniparental inheritance of mitochondria
+Discordant population structure inferred from male- and female-type mtDNAs from *_Macoma balthica_*, a bivalve species characterized by doubly uniparental inheritance of mitochondria
 
 1Le Cam Sabrina, 1,2Brémaud Julie, 1Becquet Vanessa, 1Garcia Pascale, 1,3Viricel Amélia, 2Breton Sophie, 1,3Pante Eric
 
