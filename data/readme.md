@@ -17,7 +17,11 @@
 
 *cox1f* sequences used to construct phylogenetic tree
 
-4. **Nuc_alig_iqtree_cox1m_PCI2.phy**
+5. **Nuc_alig_iqtree_cox1m_PCI2.phy**
 
 *cox1m* sequences used to construct phylogenetic tree
+
+6. **cline_data_pop.txt**
+
+dataset used for cline analyses
 
