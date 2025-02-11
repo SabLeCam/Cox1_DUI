@@ -1,6 +1,6 @@
 # Cox1_DUI
 
-RCode and Data from the follwing article:
+RCode, Data and supplementary material from the following article:
 Discordant population structure inferred from male- and female-type mtDNAs from *_Macoma balthica_*, a bivalve species characterized by doubly uniparental inheritance of mitochondria
 
 Le Cam Sabrina (1), Brémaud Julie  (1,2), Becquet Vanessa (1), Garcia Pascale (1), Viricel Amélia (1,3), Breton Sophie (2), Pante Eric (1,3)
