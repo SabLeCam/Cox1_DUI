@@ -10,3 +10,8 @@ Le Cam Sabrina (1), Brémaud Julie  (1,2), Becquet Vanessa (1), Garcia Pascale (
 2 Département de sciences biologiques, Université de Montréal, Montréal, QC, Canada
 
 3 Laboratoire des Sciences de l’Environnement Marin (LEMAR), UMR 6539 CNRS-UBO-IRD-Ifremer, Institut Universitaire Européen de la Mer, 29280 Plouzané, France
+
+
+Data folder contains raw data and dataframe used in the R script
+Supplementary material is found in LeCam_etal_phylogeoDUI_PCI_resubm2_final_SUPP.docx
+R script: Rscript_MScox1_DUI_resubm2.R
